@@ -1,0 +1,11 @@
+{
+"extension": ".csv",
+"bin_size": "20",
+"xmin": "0",
+"xmax": "500",
+"ymin": "0",
+"ymax": "500",
+"title": "plot",
+"column_to_plot": "Max diameter",
+"color": "green"
+}
